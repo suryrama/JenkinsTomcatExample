@@ -2,3 +2,4 @@ This is project information
 configured poll SCM
 welcome to automated deployment
 updated new changes 
+Jenkins Git poll trigger
